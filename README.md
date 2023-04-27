@@ -1,14 +1,18 @@
-# so-vits-svc4.0_TUTORIAL
+# VoiceChanger Tutorial - so-vits-svc4.0
 
 A tutorial on how to change your voice using SoftVC VITS Singing Voice Conversion
 
-LINK -> https://colab.research.google.com/drive/1z31ZfcisCXCSGA5jeid0UNjiHb9oupuV#scrollTo=Bpg6Ql1QHEV6&uniqifier=2
+# Links
+
+👉 Use this link -> https://colab.research.google.com/drive/1z31ZfcisCXCSGA5jeid0UNjiHb9oupuV#scrollTo=Bpg6Ql1QHEV6&uniqifier=2
+
+🔍 For further research refer to - https://github.com/svc-develop-team/so-vits-svc (DEPRECATED 4/23/2023)
 
 Make sure you have a Google Account to use Google Colab
 
 # Files
 
-NOTE: Make sure all of your recordings are in the WAV Format - `.wav`. MP3s WILL NOT WORK!
+🛑 NOTE: Make sure all of your recordings are in the WAV Format - `.wav`. MP3s WILL NOT WORK!
 
 1. `david_sample_recording.wav` - the original unedited recording
 
