@@ -17,3 +17,9 @@ NOTE: Make sure all of your recordings are in the WAV Format - `.wav`. MP3s WILL
 3. `juice_wrld_sample.wav` - `david_sample_recording.wav` (1.) sampled using Juice Wrld's Model
 
 4. `final_song` - the `juice_wrld_sample` along with the instrumental beat
+
+# Google Colab
+
+The code was written using `Python3`.
+
+<img width="1645" alt="Screenshot 2023-04-26 at 10 03 40 PM" src="https://user-images.githubusercontent.com/75696759/234741267-4298ef04-bb74-49a3-8007-afef3f3a7e9f.png">
